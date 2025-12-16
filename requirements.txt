@@ -5,3 +5,4 @@ pip install streamlit pandas numpy plotly scikit-learn joblib pillow openpyxl
 pip install pytesseract opencv-python  # OCR
 pip install statsmodels  # ARIMA forecasting
 pip install streamlit-webrtc pydub speechrecognition  # Voice features
+pip install --upgrade pip
