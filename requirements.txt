@@ -1,1 +1,7 @@
-streamlit
+# Core dependencies
+pip install streamlit pandas numpy plotly scikit-learn joblib pillow openpyxl
+
+# Optional features
+pip install pytesseract opencv-python  # OCR
+pip install statsmodels  # ARIMA forecasting
+pip install streamlit-webrtc pydub speechrecognition  # Voice features
